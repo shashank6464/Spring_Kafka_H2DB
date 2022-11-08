@@ -26,3 +26,5 @@ Partition => data in each => pieces of data => distributed different brokers acr
 Offset => Queue => Order in which the Kafka messages sent by the Kafka server
 
 Consumer Groups =>  Consumer 1, 2, 3 => Group 1
+
+![image](https://user-images.githubusercontent.com/112845332/200560061-99140f5b-e244-4c9e-96f7-ca381f9f917e.png)
